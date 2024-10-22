@@ -1,3 +1,5 @@
 venv
 .env
 sensor.egg-info
+artifact
+logs

@@ -14,5 +14,5 @@ watchfiles
 websockets
 wincertstore
 xgboost
-
+ipykernel 
 -e .
